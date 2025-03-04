@@ -1,0 +1,1 @@
+export const API_URL_GIVE = `https://dummyjson.com/users/`
